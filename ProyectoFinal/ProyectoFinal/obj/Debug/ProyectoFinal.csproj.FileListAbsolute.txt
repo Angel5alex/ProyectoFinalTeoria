@@ -1,0 +1,50 @@
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\Proyecto.489DB05A.Up2Date
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe.licenses
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FormPrincipal.resources
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ControlUsuario.Registrar_calificacion.resources
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ControlUsuario.ModificarCalificacion.resources
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ControlUsuario.ConsultarInformacion.resources
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ControlUsuario.INFO.resources
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\EntityFramework.dll
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\EntityFramework.xml
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\EntityFramework.dll
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\EntityFramework.xml
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ControlUsuario.ConsultarInformacion.resources
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ControlUsuario.INFO.resources
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ControlUsuario.ModificarCalificacion.resources
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ControlUsuario.Registrar_calificacion.resources
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FormPrincipal.resources
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe.licenses
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\Proyecto.489DB05A.Up2Date
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\benal\OneDrive\Escritorio\Proyecto Final Guardar Teoria\Proyecto Final Teoria\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
